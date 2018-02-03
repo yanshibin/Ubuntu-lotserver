@@ -1,7 +1,8 @@
 # Ubuntu-lotserver
 ### 用法
-```wget xiaofd.github.io/ruisu.sh && bash ruisu.sh```  
-注意：
+```wget xiaofd.github.io/ruisu.sh && bash ruisu.sh```    
+
+#注意：
 
 安装完会自动重启 正常现象 重启后就安装好了锐速，可以使用 ps aux | grep appex 来检测是否运行
 如果锐速没有自动安装可以使用 bash /appex/appexinstall.sh 来安装
